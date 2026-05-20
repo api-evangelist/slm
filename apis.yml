@@ -7,4 +7,7 @@ description: 'Profile for SLM in the API Evangelist network. Fortune F1000 (rank
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/salliemae
 apis: []
